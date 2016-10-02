@@ -17,6 +17,7 @@ public class LOLProyect {
     public static void main(String[] args) {
         // TODO code application logic here
         //Done
+        String payaso = "payaso";
     }
     
 }
